@@ -1,0 +1,270 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 1000px){
+	.navbar-default .navbar-nav>li>a{
+		margin: 0 20px !important;	
+	}
+	.banner_video {
+    padding-top: 30% !important;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.mail{
+		height:auto !important;		
+	}
+	.mail ul{
+		padding-top:2px !important;
+	}
+	.bannerBottomInfo {
+		bottom:10px !important;	
+	}
+	.mobileSection {
+		margin-top: 20px;
+		text-align: center !important;
+		padding-left: 0 !important;
+	}
+	.sigBox {
+    	margin-bottom: 20px;
+	}
+.gifImg	{
+	left:4% !important
+	}
+}
+@media only screen and (max-width: 900px) {
+	.mail{
+		height:auto !important;		
+	}
+	.mail ul{
+		padding-top:2px !important;
+	}
+	.bannerBottomInfo {
+		bottom:10px !important;	
+	}
+	.mobileSection {
+		margin-top: 20px;
+		text-align: center !important;
+		padding-left: 0 !important;
+	}
+	.sigBox {
+    	margin-bottom: 20px;
+	}
+
+
+@media only screen and (max-width: 768px) {
+	
+	.banner_video {
+    	padding-top: 55% !important ;
+	}
+	.bannerInfo h1 {
+		font-size:22px;
+		margin:50px 0;
+		line-height:30px !important;	
+	}
+	.bannerBottomInfo img{
+		z-index:99;
+	}
+	.bannerBottomInfo {
+	
+			
+	}
+	.chatBtn{
+		margin-top: 20px;
+		margin-left: -14px;
+	}
+	.sigBox{
+		margin-bottom:20px;	
+	}
+	.signatureSection{
+		padding-left:0 !important;
+		padding-right:0 !important;	
+	}
+	.supportSection {
+		padding:30px 0 30px 0 !important;	
+	}
+	.mainInputFormField {
+		width:250px  !important;	
+	}
+	.tabMobile{
+		padding:30px 0 !important;	
+	}
+	.tabMobMain{
+		padding:0 !important;	
+	}
+	.mobileSection{
+		margin-top:20px;
+		text-align:center !important;
+		padding-left: 0 !important;	
+	}
+	.footerBoxSec li{
+		margin-bottom:0px !important;	
+	}
+	.footerBoxSec ul {
+		width:100% !important;	
+	}
+	.navbar-nav{
+		margin:0;	
+	}
+	.navul{
+		position:fixed !important;
+		left:0;
+		right:0;	
+		width: 100% !important;	
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    	border-color: transparent !important;
+	}
+	.carouselSection{
+		width:100% !important;	
+	}
+	.gifImg{
+		top:10% !important;
+		left:0 !important;
+		right:0 !important;
+		text-align:center !important;
+	}
+.gifImg	img{
+	
+	}
+}
+@media only screen and (max-width: 480px) {
+	.banner_video {
+		padding-top:86% !important;	
+	}
+    .topHeader{
+		text-align:center;		
+	}
+	.logoSection{
+		padding-top:10px;	
+	}
+	.bannerBottomInfo{
+		bottom:-30px !important;	
+	}
+	.bannerInfo{
+		padding-top:10vh !important;	
+	}
+	.gifImg	img {
+		width:20%;
+	}
+	.bannerInfo h1{
+		
+	}
+	.navbar {
+		padding-top:0 !important;	
+	}
+	.bannerInfo h1 {
+		width:100% !important;
+		font-size:18px !important;
+		margin-top:40px;
+		margin-bottom:0px ;
+		line-height:20px !important;	
+	}
+	.chatBtn {
+		margin-top:0 !important;
+		margin-left: 0px !important;
+	}	
+	.featuresSection , .chatSection{
+		padding:30px 0 !important;	
+	}
+	.featuresSection h1 {
+		font-size:20px;	
+	}
+	.boxHolder {
+		margin-top:20px !important;	
+	}
+	.featureBox {
+		margin-bottom:20px;
+	}
+	.chatSection h2 {
+		font-size:20px;	
+	}
+	.chatInput {
+		width:200px;
+		margin-right:0 !important;
+		margin-bottom:10px;	
+	}
+	.boxInfo {
+		width:100%;
+		margin:0 auto;
+		text-align:center !important;
+		padding:30px !important;		
+	}
+	.boxInfo p {
+		width: 100% !important;
+		float: none;		
+	}	
+	.sigBox h4 {
+		padding-bottom:15px !important;	
+	}
+	.contactSection, .mainFooter{
+		padding: 20px 0 !important;	
+	}
+	.mainFooter h2{
+		font-size:20px !important;	
+	}
+	.footerBoxSec ul{
+		width:100% !important;
+		text-align:left !important;	
+	}
+	.footerBoxSec{
+		border:none !important; 	
+	}
+	.noPadding{
+		padding:0 !important;	
+	}
+	.mail{
+		height: auto !important;	
+		padding-top: 20px !important;
+	}
+	.mail  ul{
+		width:100% !important;
+		padding-top: 20px !important;
+	}
+	.navbar-nav{
+		margin:0;	
+	}
+	.navul{
+		position:fixed !important;
+		left:0;
+		right:0;	
+		width: 100% !important;	
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    	border-color: transparent !important;
+	}
+	.tryBtn{
+		font-size:10px;	
+	}
+	.footerLogo{
+		margin-bottom:20px !important;	
+	}
+	/*--------popup---------------*/
+	.popupInfo{
+		padding:10px 10px 0px 10px !important;	
+	}
+	.popupInfo h1{
+		font-size:20px !important;
+		margin-bottom:10px !important;
+		text-align:center !important;	
+	}
+	.popupInfo p{
+		font-size:10px !important;
+		margin-bottom:0 !important;	
+	}
+	.popupImg{
+		padding:0 0 10px 0 !important;	
+	}
+	.popupInfo ul{
+		text-align:center !important;	
+	}
+	.popupInner2{
+		
+		width:250px !important;
+	}
+	.formField2{
+		width:210px !important;	
+	}
+	.pupupBtn{
+		width:210px !important;	
+	}
+	
+}
